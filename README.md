@@ -40,23 +40,25 @@ Desmistificar o aprendizado de máquina e capacitar profissionais para criar mod
 ## 📂 Estrutura do Repositório
 ```plaintext
 📦 bootcamp-machine-learning
-├── 📁 aulas/
-│   ├── 
-│   ├── 
-│   └── ...
-├── 📁 desafios/
-│   ├── desafio1-nome-desafio/
-│   │   ├── README.md
-│   │   └── 
-│   └── ...
-├── 📁 projetos/
-│   ├── projeto1-nome-projeto/
-│   │   ├── README.md
-│   │   ├── 
-│   │   ├── 
-│   │   └── 
-│   └── ...
-└── README.md
+├── 📁 aulas/  
+│   ├── ...  
+├── 📁 desafios/  
+│   ├── desafio1-nome-desafio/  
+│   │   ├── README.md  
+│   │   └── ...  
+│   └── ...  
+├── 📁 projetos/  
+│   ├── projeto1-nome-projeto/  
+│   │   ├── README.md  
+│   │   ├── ...  
+│   │   └── ...  
+│   └── ...  
+├── 📁 documentos/  
+│   ├── introducao.md  
+│   ├── notas.md  
+│   └── referencias.md  
+└── README.md  
+
 ```
 
 ### **Pasta `aulas/`**  
@@ -70,7 +72,8 @@ Cada desafio terá um subdiretório com:
 ### **Pasta `projetos/`**  
 Organização dos projetos desenvolvidos ao longo do bootcamp.
 
----
+### **Pasta `documentos/`**  
+Organização dos documentos das aulas
 
 ---
 
